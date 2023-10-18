@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Divyanshu Chandravanshi
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking For data scientist job
+- 👀 I’m looking For data scientist job
 - 📫 divyanshurajput172@gmail.com
